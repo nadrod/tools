@@ -28,7 +28,7 @@ git -C $OPTHOME/Reconocimiento clone https://github.com/m4ll0k/Infoga.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/nettitude/Prowl.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/vaguileradiaz/tinfoleak.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/jopcode/whour
-git -C $OPTHOME/Reconocimiento clone https://github.com/leebaird/discover
+git -C $OPTHOME/Reconocimiento clone https://github.com/leebaird/discover.git
 
 git -C $OPTHOME/VulnAnalisis clone https://github.com/inurlx/CLOUDKiLL3R.git
 git -C $OPTHOME/VulnAnalisis clone https://www.github.com/MetaChar/Mercury
